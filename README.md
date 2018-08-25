@@ -1,2 +1,2 @@
 # spellcmds
-Linux terminal commands replaced with harry potter files
+Linux terminal commands replaced with harry potter spells
