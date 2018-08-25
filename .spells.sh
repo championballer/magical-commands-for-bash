@@ -10,7 +10,7 @@ function obliviate()
 	clear
 }
 
-function aberto()
+function apparate()
 {
 	cd $1
 }
@@ -19,4 +19,9 @@ function knox()
 {	
 	exit
 	
+}
+
+function horcrux()
+{
+	cp $1 $2
 }
