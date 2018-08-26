@@ -25,3 +25,8 @@ function horcrux()
 {
 	cp $1 $2
 }
+
+function avadakedavra()
+{
+	xkill
+}
