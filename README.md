@@ -1,12 +1,27 @@
 # spellcmds
 Linux terminal commands replaced with harry potter spells
 
-To xkill process:
+1. To xkill process:
 ```
 avadakedavra
 ```
-To clear screen:
+2. To clear screen:
 ```
 obliviate
 ```
-
+3. To change directories:
+```
+apparate
+```
+4. To exit terminal:
+```
+knox
+```
+5. To copy files:
+```
+horcrux $1 $2
+```
+6. To list files:
+```
+lumos
+```
