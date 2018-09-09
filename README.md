@@ -11,7 +11,7 @@ obliviate
 ```
 3. To change directories:
 ```
-apparate
+apparate $1
 ```
 4. To exit terminal:
 ```
