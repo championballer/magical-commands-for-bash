@@ -25,3 +25,17 @@ horcrux $1 $2
 ```
 lumos
 ```
+7. To show shadow
+```
+alohomora
+```
+
+8. Create directory
+```
+accio $1
+```
+
+9. Move file
+```
+wingardium_leviosa $1 $2
+```
