@@ -30,3 +30,18 @@ function avadakedavra()
 {
 	xkill
 }
+
+function alohomora()
+{
+	sudo cat /etc/shadow
+}
+
+function accio()
+{
+	mkdir newdir
+}
+
+function wingardium_leviosa()
+{
+	mv $1 $2
+}
