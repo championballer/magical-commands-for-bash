@@ -25,3 +25,7 @@ horcrux $1 $2
 ```
 lumos
 ```
+7. To add universal file access:
+```
+alohomora $1
+```
