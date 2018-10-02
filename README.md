@@ -29,3 +29,7 @@ lumos
 ```
 revelio $1
 ```
+8. To freeze a process:
+```
+immobulus $1
+```
