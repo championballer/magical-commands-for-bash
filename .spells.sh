@@ -30,3 +30,8 @@ function avadakedavra()
 {
 	xkill
 }
+
+function alohomora()
+{
+	chmod 777 $1
+}
