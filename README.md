@@ -25,3 +25,7 @@ horcrux $1 $2
 ```
 lumos
 ```
+7. To tail a file:
+```
+telehanda $1
+```
