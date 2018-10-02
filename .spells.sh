@@ -40,3 +40,8 @@ function immobulus()
 {
 	kill -SIGSTOP $1
 }
+
+function accio()
+{
+	mv $1 .
+}

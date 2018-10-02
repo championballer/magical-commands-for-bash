@@ -33,3 +33,7 @@ revelio $1
 ```
 immobulus $1
 ```
+9. To move a file to the current directory:
+```
+accio $1
+```
