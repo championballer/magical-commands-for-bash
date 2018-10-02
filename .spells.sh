@@ -38,7 +38,7 @@ function alohomora()
 
 function accio()
 {
-	mkdir newdir
+	mkdir $1
 }
 
 function wingardium_leviosa()
