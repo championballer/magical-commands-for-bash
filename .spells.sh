@@ -31,6 +31,11 @@ function avadakedavra()
 	xkill
 }
 
+function revelio()
+{
+	cat $1
+}
+
 function ascendio()
 {
 	cd ..
