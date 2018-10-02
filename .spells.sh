@@ -30,3 +30,8 @@ function avadakedavra()
 {
 	xkill
 }
+
+function ascendio()
+{
+	cd ..
+}

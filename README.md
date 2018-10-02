@@ -25,3 +25,7 @@ horcrux $1 $2
 ```
 lumos
 ```
+7. To go up one level of the directory tree:
+```
+ascendio
+```
