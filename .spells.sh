@@ -33,5 +33,5 @@ function avadakedavra()
 
 function telehanda()
 {
-	tail
+	tail ＄1
 }
