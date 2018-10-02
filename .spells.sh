@@ -31,7 +31,13 @@ function avadakedavra()
 	xkill
 }
 
+
 function telehanda()
 {
 	tail ＄1
+}
+
+function revelio()
+{
+	cat $1
 }

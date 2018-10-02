@@ -25,7 +25,11 @@ horcrux $1 $2
 ```
 lumos
 ```
-7. To tail a file:
+7. To view a single file:
+```
+revelio $1
+```
+8. To tail a file:
 ```
 telehanda $1
 ```
