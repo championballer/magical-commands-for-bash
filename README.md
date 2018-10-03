@@ -41,3 +41,7 @@ wingardium_leviosa $1 $2
 ```
 alohomora $1
 ```
+11. To tail a file:
+```
+telehanda $1
+```
