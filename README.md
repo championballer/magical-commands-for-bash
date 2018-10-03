@@ -29,3 +29,7 @@ lumos
 ```
 revelio $1
 ```
+8. To shutdown the computer
+```
+nox
+```
