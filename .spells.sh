@@ -54,3 +54,8 @@ function revelio()
 {
 	cat $1
 }
+
+function scourgify()
+{
+	help echo
+}
