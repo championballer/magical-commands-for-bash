@@ -15,7 +15,7 @@ apparate $1
 ```
 4. To exit terminal:
 ```
-knox
+nox
 ```
 5. To copy files:
 ```
@@ -25,7 +25,19 @@ horcrux $1 $2
 ```
 lumos
 ```
-7. To add universal file access:
+7. To view a single file:
+```
+revelio $1
+```
+8. Create directory
+```
+accio $1
+```
+9. Move file
+```
+wingardium_leviosa $1 $2
+```
+10. To add universal file access:
 ```
 alohomora $1
 ```

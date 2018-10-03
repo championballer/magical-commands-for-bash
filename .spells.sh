@@ -18,7 +18,6 @@ function apparate()
 function knox()
 {	
 	exit
-	
 }
 
 function horcrux()
@@ -34,4 +33,18 @@ function avadakedavra()
 function alohomora()
 {
 	chmod 777 $1
+}
+function accio()
+{
+	mkdir $1
+}
+
+function wingardium_leviosa()
+{
+	mv $1 $2
+}
+
+function revelio()
+{
+	cat $1
 }
