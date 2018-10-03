@@ -15,7 +15,7 @@ apparate $1
 ```
 4. To exit terminal:
 ```
-knox
+nox
 ```
 5. To copy files:
 ```
