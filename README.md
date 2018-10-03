@@ -45,3 +45,7 @@ alohomora $1
 ```
 telehanda $1
 ```
+12. To use sudo in a command:
+```
+fideliuscharm $1
+```

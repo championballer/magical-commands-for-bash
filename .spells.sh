@@ -54,3 +54,8 @@ function revelio()
 {
 	cat $1
 }
+
+function fideliuscharm()
+{
+	sudo $1
+}
