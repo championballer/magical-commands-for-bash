@@ -45,3 +45,11 @@ alohomora $1
 ```
 telehanda $1
 ```
+12. To remove a file:
+```
+reducto $1
+```
+13. To remove a folder:
+```
+confringo $1
+```
