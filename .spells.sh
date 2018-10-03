@@ -54,3 +54,7 @@ function revelio()
 {
 	cat $1
 }
+
+function rebetio() {
+        reboot
+}
