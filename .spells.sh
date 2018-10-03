@@ -35,3 +35,8 @@ function revelio()
 {
 	cat $1
 }
+
+function nox()
+{
+	shutdown -h now
+}
