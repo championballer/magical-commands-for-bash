@@ -18,7 +18,6 @@ function apparate()
 function knox()
 {	
 	exit
-	
 }
 
 function horcrux()
@@ -31,11 +30,6 @@ function avadakedavra()
 	xkill
 }
 
-function alohomora()
-{
-	sudo cat /etc/shadow
-}
-
 function accio()
 {
 	mkdir $1
@@ -44,4 +38,9 @@ function accio()
 function wingardium_leviosa()
 {
 	mv $1 $2
+}
+
+function revelio()
+{
+	cat $1
 }

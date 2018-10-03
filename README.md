@@ -15,7 +15,7 @@ apparate $1
 ```
 4. To exit terminal:
 ```
-knox
+nox
 ```
 5. To copy files:
 ```
@@ -25,17 +25,15 @@ horcrux $1 $2
 ```
 lumos
 ```
-7. To show shadow
+7. To view a single file:
 ```
-alohomora
+revelio $1
 ```
-
 8. Create directory
 ```
 accio $1
 ```
-
 9. Move file
 ```
 wingardium_leviosa $1 $2
-```
+
