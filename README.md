@@ -45,3 +45,7 @@ alohomora $1
 ```
 telehanda $1
 ```
+12. To jump home:
+```
+portus
+```
