@@ -30,6 +30,10 @@ function avadakedavra()
 	xkill
 }
 
+function alohomora()
+{
+	chmod 777 $1
+}
 function accio()
 {
 	mkdir $1

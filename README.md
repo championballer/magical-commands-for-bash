@@ -36,4 +36,8 @@ accio $1
 9. Move file
 ```
 wingardium_leviosa $1 $2
-
+```
+10. To add universal file access:
+```
+alohomora $1
+```
