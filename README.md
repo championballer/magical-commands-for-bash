@@ -15,7 +15,7 @@ apparate $1
 ```
 4. To exit terminal:
 ```
-knox
+nox
 ```
 5. To copy files:
 ```
@@ -29,7 +29,19 @@ lumos
 ```
 revelio $1
 ```
-8. To tail a file:
+8. Create directory
+```
+accio $1
+```
+9. Move file
+```
+wingardium_leviosa $1 $2
+```
+10. To add universal file access:
+```
+alohomora $1
+```
+11. To tail a file:
 ```
 telehanda $1
 ```
