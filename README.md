@@ -29,3 +29,11 @@ lumos
 ```
 revelio $1
 ```
+8. Create directory
+```
+accio $1
+```
+9. Move file
+```
+wingardium_leviosa $1 $2
+

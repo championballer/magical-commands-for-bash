@@ -18,7 +18,6 @@ function apparate()
 function knox()
 {	
 	exit
-	
 }
 
 function horcrux()
@@ -29,6 +28,16 @@ function horcrux()
 function avadakedavra()
 {
 	xkill
+}
+
+function accio()
+{
+	mkdir $1
+}
+
+function wingardium_leviosa()
+{
+	mv $1 $2
 }
 
 function revelio()
