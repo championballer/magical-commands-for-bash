@@ -45,3 +45,11 @@ alohomora $1
 ```
 telehanda $1
 ```
+12. Delete directory
+```
+evanesco $1
+```
+13. To locate a file
+```
+accio $1
+```
