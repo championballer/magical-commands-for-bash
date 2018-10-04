@@ -49,7 +49,7 @@ telehanda $1
 ```
 evanesco $1
 ```
-13. To locate a file
+13. To locate a file:
 ```
 accio $1
 ```
