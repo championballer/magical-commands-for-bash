@@ -1,6 +1,37 @@
 # spellcmds
 Linux terminal commands replaced with harry potter spells
 
+To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
+```
+. PATH_TO_SPELLS_SCRIPT 
+```
+For example, if I downloaded this project to my home/ folder, the command to put into bashrc would be:
+```
+. /home/spellcmds/.spells.sh 
+```
+
+If you want to run the script in a single terminal session you just have to go to the location where you've downloaded the project and run 
+```
+. PATH_TO_PROJECT/.spells.sh
+```
+
+The same way like above one, if I downloaded the project to my home/ folder, I have to type:
+```
+. /home/spellcmds/.spells.sh
+```
+
+or 
+
+```
+. ~/spellcmds/.spells.sh
+```
+
+You can use source command as well so:
+
+```
+source ~/spellcmds/.spells.sh 
+```
+
 1. To xkill process:
 ```
 avadakedavra
