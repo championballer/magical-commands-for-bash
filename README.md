@@ -76,7 +76,7 @@ alohomora $1
 ```
 telehanda $1
 ```
-8. To go up one level of the directory tree:
+12. To go up one level of the directory tree:
 ```
 ascendio
 ```
