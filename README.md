@@ -80,3 +80,7 @@ telehanda $1
 ```
 ascendio
 ```
+13. Sleep terminal
+```
+stupefy $1
+```

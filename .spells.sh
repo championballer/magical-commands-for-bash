@@ -59,3 +59,7 @@ function ascendio()
 {
 	cd ..
 }
+function stupefy()
+{
+	sleep $1
+}
