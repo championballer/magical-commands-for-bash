@@ -84,3 +84,7 @@ ascendio
 ```
 stupefy $1
 ```
+14. To jump home:
+```
+portus
+```

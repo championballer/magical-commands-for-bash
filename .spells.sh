@@ -55,6 +55,10 @@ function revelio()
 	cat $1
 }
 
+function portus()
+{
+	cd ~
+}
 function ascendio()
 {
 	cd ..
@@ -62,4 +66,5 @@ function ascendio()
 function stupefy()
 {
 	sleep $1
+
 }
