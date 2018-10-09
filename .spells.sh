@@ -68,3 +68,11 @@ function stupefy()
 	sleep $1
 
 }
+function sonorus()
+{
+	pactl set-sink-volume 0 150%
+}
+function quietus()
+{
+	pactl set-sink-volume 0 0%
+}
