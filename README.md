@@ -88,3 +88,7 @@ stupefy $1
 ```
 portus
 ```
+15. To delete a file:
+```
+confringo $1
+```
