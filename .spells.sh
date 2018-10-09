@@ -76,3 +76,7 @@ function quietus()
 {
 	pactl set-sink-volume 0 0%
 }
+function imperio()
+{
+	sudo su
+}
