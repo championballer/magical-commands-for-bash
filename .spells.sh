@@ -68,3 +68,8 @@ function stupefy()
 	sleep $1
 
 }
+
+function confringo()
+{
+	rm $1
+}
