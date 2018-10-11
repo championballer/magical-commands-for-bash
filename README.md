@@ -60,6 +60,15 @@ lumos
 ```
 revelio $1
 ```
+
+8. To freeze a process:
+```
+immobulus $1
+```
+9. To move a file to the current directory:
+```
+accio $1
+=======
 8. Create directory
 ```
 accio $1
@@ -91,4 +100,5 @@ portus
 15. To delete a file:
 ```
 confringo $1
+
 ```
