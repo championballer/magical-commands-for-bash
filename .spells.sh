@@ -18,7 +18,6 @@ function apparate()
 function knox()
 {	
 	exit
-	
 }
 
 function horcrux()
@@ -31,6 +30,26 @@ function avadakedavra()
 	xkill
 }
 
+function telehanda()
+{
+	tail ＄1
+}
+
+function alohomora()
+{
+	chmod 777 $1
+}
+
+function accio()
+{
+	mkdir $1
+}
+
+function wingardium_leviosa()
+{
+	mv $1 $2
+}
+
 function revelio()
 {
 	cat $1
@@ -41,7 +60,21 @@ function immobulus()
 	kill -SIGSTOP $1
 }
 
-function accio()
+function portus()
 {
-	mv $1 .
+	cd ~
+}
+function ascendio()
+{
+	cd ..
+}
+function stupefy()
+{
+	sleep $1
+
+}
+
+function confringo()
+{
+	rm $1
 }
