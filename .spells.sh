@@ -55,6 +55,11 @@ function revelio()
 	cat $1
 }
 
+function immobulus()
+{
+	kill -SIGSTOP $1
+}
+
 function portus()
 {
 	cd ~
@@ -79,4 +84,9 @@ function quietus()
 function imperio()
 {
 	sudo su
+}
+
+function confringo()
+{
+	rm $1
 }

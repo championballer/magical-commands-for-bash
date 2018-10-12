@@ -60,7 +60,12 @@ lumos
 ```
 revelio $1
 ```
-8. Create directory
+
+8. To freeze a process:
+```
+immobulus $1
+```
+9. To move a file to the current directory:
 ```
 accio $1
 ```
@@ -88,3 +93,18 @@ stupefy $1
 ```
 portus
 ```
+15. To delete a file:
+```
+confringo $1
+```
+16. To set the system sound 150%:
+```
+sonorus
+```
+17. To set the system sound 0%:
+```
+sonorus
+```
+18. To switch superuser
+```
+imperio
