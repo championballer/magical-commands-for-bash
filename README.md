@@ -65,39 +65,36 @@ revelio $1
 ```
 immobulus $1
 ```
-9. To move a file to the current directory:
-```
-accio $1
-=======
-8. Create directory
+
+9. Create directory
 ```
 accio $1
 ```
-9. Move file
+10. Move file
 ```
 wingardium_leviosa $1 $2
 ```
-10. To add universal file access:
+11. To add universal file access:
 ```
 alohomora $1
 ```
-11. To tail a file:
+12. To tail a file:
 ```
 telehanda $1
 ```
-12. To go up one level of the directory tree:
+13. To go up one level of the directory tree:
 ```
 ascendio
 ```
-13. Sleep terminal
+14. Sleep terminal
 ```
 stupefy $1
 ```
-14. To jump home:
+15. To jump home:
 ```
 portus
 ```
-15. To delete a file:
+16. To delete a file:
 ```
 confringo $1
 
