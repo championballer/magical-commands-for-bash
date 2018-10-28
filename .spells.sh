@@ -78,3 +78,8 @@ function confringo()
 {
 	rm $1
 }
+
+function evanesco()
+{
+	mv $1 .$1
+}

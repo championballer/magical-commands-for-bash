@@ -97,5 +97,8 @@ portus
 16. To delete a file:
 ```
 confringo $1
-
+```
+17. To hide a file:
+```
+evanesco $1
 ```
