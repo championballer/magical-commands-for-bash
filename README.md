@@ -102,3 +102,7 @@ confringo $1
 ```
 evanesco $1
 ```
+18. To open a file:
+```
+aberto $1
+```
