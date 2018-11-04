@@ -1,4 +1,4 @@
-# Magical commands for BASH (MCB)
+# Magical Commands for BASH (MCB)
 Linux terminal commands replaced with harry potter spells
 
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
