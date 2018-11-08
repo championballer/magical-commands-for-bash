@@ -55,6 +55,11 @@ function revelio()
 	cat $1
 }
 
+
+function rebetio() {
+        reboot
+}
+
 function immobulus()
 {
 	kill -SIGSTOP $1
@@ -83,3 +88,4 @@ function evanesco()
 {
 	mv $1 .$1
 }
+
