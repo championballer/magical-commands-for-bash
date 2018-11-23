@@ -102,3 +102,7 @@ confringo $1
 ```
 evanesco $1
 ```
+18. To use sudo in a command:
+```
+fideliuscharm $1
+```

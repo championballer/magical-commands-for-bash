@@ -55,6 +55,10 @@ function revelio()
 	cat $1
 }
 
+function fideliuscharm()
+{
+	sudo $1
+}
 
 function rebetio() {
         reboot
@@ -88,4 +92,3 @@ function evanesco()
 {
 	mv $1 .$1
 }
-
