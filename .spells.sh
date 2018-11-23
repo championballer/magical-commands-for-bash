@@ -59,3 +59,36 @@ function fideliuscharm()
 {
 	sudo $1
 }
+
+function rebetio() {
+        reboot
+}
+
+function immobulus()
+{
+	kill -SIGSTOP $1
+}
+
+function portus()
+{
+	cd ~
+}
+function ascendio()
+{
+	cd ..
+}
+function stupefy()
+{
+	sleep $1
+
+}
+
+function confringo()
+{
+	rm $1
+}
+
+function evanesco()
+{
+	mv $1 .$1
+}
