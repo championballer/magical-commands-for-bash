@@ -60,12 +60,10 @@ lumos
 ```
 revelio $1
 ```
-
 8. To freeze a process:
 ```
 immobulus $1
 ```
-
 9. Create directory
 ```
 accio $1
@@ -105,4 +103,8 @@ evanesco $1
 18. To use sudo in a command:
 ```
 fideliuscharm $1
+```
+19. To fix broken dependencies:
+```
+reparo
 ```

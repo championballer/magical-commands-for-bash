@@ -55,6 +55,12 @@ function revelio()
 	cat $1
 }
 
+
+function reparo()
+{
+	apt-get -f install
+}
+
 function fideliuscharm()
 {
 	sudo $1
@@ -91,4 +97,5 @@ function confringo()
 function evanesco()
 {
 	mv $1 .$1
+
 }
