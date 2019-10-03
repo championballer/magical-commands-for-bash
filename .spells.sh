@@ -99,3 +99,8 @@ function evanesco()
 	mv $1 .$1
 
 }
+
+function priori_incantato()
+{
+	history
+}
