@@ -1,5 +1,11 @@
-# Magical Commands for BASH (MCB)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12611076/66220372-30a03280-e6cd-11e9-9263-55f1eb129b1d.png">
+</p>
+
+
 Linux terminal commands replaced with harry potter spells
+
+# Install
 
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
 ```
@@ -32,79 +38,46 @@ You can use source command as well so:
 source ~/spellcmds/.spells.sh 
 ```
 
-1. To xkill process:
-```
-avadakedavra
-```
-2. To clear screen:
-```
-obliviate
-```
-3. To change directories:
-```
-apparate $1
-```
-4. To exit terminal:
-```
-nox
-```
-5. To copy files:
-```
-horcrux $1 $2
-```
-6. To list files:
-```
-lumos
-```
-7. To view a single file:
-```
-revelio $1
-```
-8. To freeze a process:
-```
-immobulus $1
-```
-9. Create directory
-```
-accio $1
-```
-10. Move file
-```
-wingardium_leviosa $1 $2
-```
-11. To add universal file access:
-```
-alohomora $1
-```
-12. To tail a file:
-```
-telehanda $1
-```
-13. To go up one level of the directory tree:
-```
-ascendio
-```
-14. Sleep terminal
-```
-stupefy $1
-```
-15. To jump home:
-```
-portus
-```
-16. To delete a file:
-```
-confringo $1
-```
-17. To hide a file:
-```
-evanesco $1
-```
-18. To use sudo in a command:
-```
-fideliuscharm $1
-```
-19. To fix broken dependencies:
-```
-reparo
-```
+# Learn the spells
+
+xkill Process - `avadakedavra`
+
+clear screen - `obliviate`
+
+`avadakedavra` - xkill process
+
+`obliviate` - clear screen
+
+`apparate $1` - change directories 
+
+`nox` - exit terminal
+
+`horcrux $1 $2` - copy files 
+
+`lumos` - list files
+
+`revelio $1` - To view a single file
+
+`immobulus $1` - freeze a process 
+
+`accio $1` - Create directory
+
+`wingardium_leviosa $1 $2` - Move file
+
+`alohomora $1` - add universal file access
+
+`telehanda $1` - tail a file
+
+`ascendio` - go up one level of the directory tree
+
+`stupefy $1` - Sleep terminal
+
+`portus` - jump home
+
+`confringo $1` - delete a file
+
+`evanesco $1` - hide a file
+
+`fideliuscharm $1` - use sudo in a command
+
+`reparo` - reparo
