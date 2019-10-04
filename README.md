@@ -5,7 +5,7 @@
 
 Linux terminal commands replaced with harry potter spells
 
-# Install
+![Install the Spells](https://user-images.githubusercontent.com/12611076/66222104-b2de2600-e6d0-11e9-985e-0a38cbea9502.png)
 
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
 ```
@@ -38,7 +38,7 @@ You can use source command as well so:
 source ~/spellcmds/.spells.sh 
 ```
 
-# Learn the spells
+![The Spellbook](https://user-images.githubusercontent.com/12611076/66222136-c38e9c00-e6d0-11e9-8cb4-53e6ae3903a2.png)
 
 xkill Process - `avadakedavra`
 
