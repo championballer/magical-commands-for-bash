@@ -104,3 +104,7 @@ function priori_incantato()
 {
 	history
 }
+
+function imperio() {
+	chown $1
+}
