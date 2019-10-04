@@ -104,3 +104,11 @@ function priori_incantato()
 {
 	history
 }
+
+function riddikulus(){
+	apt-get moo
+}
+
+function aparecium(){
+	ls -a
+}
