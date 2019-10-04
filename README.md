@@ -116,3 +116,14 @@ riddikulus
 ``` 
 aparecium
 ```
+22. To split large files into smaller files:
+```
+diffindo [options] filename prefix
+
+Options:
+-a –suffix-length=N use suffixes of length N (default 2)
+-b –bytes=SIZE put SIZE bytes per output file
+-C –line-bytes=SIZE put at most SIZE bytes of lines per output file
+-d –numeric-suffixes use numeric suffixes instead of alphabetic
+-l –lines=NUMBER put NUMBER lines per output file
+```
