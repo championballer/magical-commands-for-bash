@@ -108,3 +108,11 @@ fideliuscharm $1
 ```
 reparo
 ```
+20. Easter egg apt:
+```
+riddikulus
+```
+21. To list hidden files:
+``` 
+aparecium
+```
