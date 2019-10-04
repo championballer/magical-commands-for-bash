@@ -1,4 +1,4 @@
-# spellcmds
+# Magical Commands for BASH (MCB)
 Linux terminal commands replaced with harry potter spells
 
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
@@ -60,12 +60,10 @@ lumos
 ```
 revelio $1
 ```
-
 8. To freeze a process:
 ```
 immobulus $1
 ```
-
 9. Create directory
 ```
 accio $1
@@ -105,4 +103,12 @@ evanesco $1
 18. To open a file:
 ```
 aberto $1
+```
+19. To use sudo in a command:
+```
+fideliuscharm $1
+```
+20. To fix broken dependencies:
+```
+reparo
 ```
