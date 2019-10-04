@@ -56,63 +56,67 @@ horcrux $1 $2
 ```
 lumos
 ```
-7. To view a single file:
+7. To list files in long format including entries starting with .
+```
+lumosmaxima
+```
+8. To view a single file:
 ```
 revelio $1
 ```
-8. To freeze a process:
+9. To freeze a process:
 ```
 immobulus $1
 ```
-9. Create directory
+10. Create directory
 ```
 accio $1
 ```
-10. Move file
+11. Move file
 ```
 wingardium_leviosa $1 $2
 ```
-11. To add universal file access:
+12. To add universal file access:
 ```
 alohomora $1
 ```
-12. To tail a file:
+13. To tail a file:
 ```
 telehanda $1
 ```
-13. To go up one level of the directory tree:
+14. To go up one level of the directory tree:
 ```
 ascendio
 ```
-14. Sleep terminal
+15. Sleep terminal
 ```
 stupefy $1
 ```
-15. To jump home:
+16. To jump home:
 ```
 portus
 ```
-16. To delete a file:
+17. To delete a file:
 ```
 confringo $1
 ```
-17. To hide a file:
+18. To hide a file:
 ```
 evanesco $1
 ```
-18. To use sudo in a command:
+19. To use sudo in a command:
 ```
 fideliuscharm $1
 ```
-19. To fix broken dependencies:
+20. To fix broken dependencies:
 ```
 reparo
 ```
-20. Easter egg apt:
+21. Easter egg apt:
 ```
 riddikulus
 ```
-21. To list hidden files:
+22. To list hidden files:
 ``` 
 aparecium
 ```
