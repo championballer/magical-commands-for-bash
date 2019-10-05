@@ -5,6 +5,11 @@ function lumos()
 	ls
 }
 
+function lumosmaxima()
+{
+	ls -al
+}
+
 function obliviate()
 {
 	clear

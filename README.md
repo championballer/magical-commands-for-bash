@@ -56,6 +56,10 @@ horcrux $1 $2
 ```
 lumos
 ```
+* To list files in long format including entries starting with .
+```
+lumosmaxima
+```
 * To view a single file:
 ```
 revelio $1
