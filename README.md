@@ -32,87 +32,87 @@ You can use source command as well so:
 source ~/spellcmds/.spells.sh 
 ```
 
-1. To xkill process:
+* To xkill process:
 ```
 avadakedavra
 ```
-2. To clear screen:
+* To clear screen:
 ```
 obliviate
 ```
-3. To change directories:
+* To change directories:
 ```
 apparate $1
 ```
-4. To exit terminal:
+* To exit terminal:
 ```
 nox
 ```
-5. To copy files:
+* To copy files:
 ```
 horcrux $1 $2
 ```
-6. To list files:
+* To list files:
 ```
 lumos
 ```
-7. To view a single file:
+* To view a single file:
 ```
 revelio $1
 ```
-8. To freeze a process:
+* To freeze a process:
 ```
 immobulus $1
 ```
-9. Create directory
+* Create directory
 ```
 accio $1
 ```
-10. Move file
+* Move file
 ```
 wingardium_leviosa $1 $2
 ```
-11. To add universal file access:
+* To add universal file access:
 ```
 alohomora $1
 ```
-12. To tail a file:
+* To tail a file:
 ```
 telehanda $1
 ```
-13. To go up one level of the directory tree:
+* To go up one level of the directory tree:
 ```
 ascendio
 ```
-14. Sleep terminal
+* Sleep terminal
 ```
 stupefy $1
 ```
-15. To jump home:
+* To jump home:
 ```
 portus
 ```
-16. To delete a file:
+* To delete a file:
 ```
 confringo $1
 ```
-17. To hide a file:
+* To hide a file:
 ```
 evanesco $1
 ```
-18. To use sudo in a command:
+* To use sudo in a command:
 ```
 fideliuscharm $1
 ```
-19. To fix broken dependencies:
+* To fix broken dependencies:
 ```
 reparo
 ```
-20. Easter egg apt:
+* Easter egg apt:
 ```
 riddikulus
 ```
-21. To list hidden files:
+* To list hidden files:
 ``` 
 aparecium
 ```
