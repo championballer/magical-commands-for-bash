@@ -117,3 +117,8 @@ function riddikulus(){
 function aparecium(){
 	ls -a
 }
+
+function diffindo()
+{
+	split "$@"
+}
