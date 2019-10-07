@@ -5,6 +5,11 @@ function lumos()
 	ls
 }
 
+function lumosmaxima()
+{
+	ls -al
+}
+
 function obliviate()
 {
 	clear
@@ -103,4 +108,17 @@ function evanesco()
 function priori_incantato()
 {
 	history
+}
+
+function riddikulus(){
+	apt-get moo
+}
+
+function aparecium(){
+	ls -a
+}
+
+function diffindo()
+{
+	split "$@"
 }
