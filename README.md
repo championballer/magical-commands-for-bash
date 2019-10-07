@@ -40,10 +40,6 @@ source ~/spellcmds/.spells.sh
 
 ![Frame 3](https://user-images.githubusercontent.com/12611076/66304662-084b4a80-e8fe-11e9-9cd1-547b6b981a67.png)
 
-xkill Process - `avadakedavra`
-
-clear screen - `obliviate`
-
 `avadakedavra` - xkill process
 
 `obliviate` - clear screen
