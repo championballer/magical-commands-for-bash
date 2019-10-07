@@ -3,7 +3,7 @@
 </p>
 
 
-Linux terminal commands replaced with harry potter spells
+>Linux terminal commands replaced with Harry Potter spells
 
 ![Frame 2](https://user-images.githubusercontent.com/12611076/66304658-05e8f080-e8fe-11e9-8af1-e5876e29a740.png)
 
