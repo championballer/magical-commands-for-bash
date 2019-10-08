@@ -132,3 +132,13 @@ Options:
 -d –numeric-suffixes use numeric suffixes instead of alphabetic
 -l –lines=NUMBER put NUMBER lines per output file
 ```
+
+* To remove a directory:
+``` 
+bombarda dir
+```
+
+* To remove a directory with --force:
+``` 
+bombardamaxima dir
+```
