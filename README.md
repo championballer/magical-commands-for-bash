@@ -1,5 +1,11 @@
-# Magical Commands for BASH (MCB)
-Linux terminal commands replaced with harry potter spells
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12611076/66220372-30a03280-e6cd-11e9-9263-55f1eb129b1d.png">
+</p>
+
+
+>Linux terminal commands replaced with Harry Potter spells
+
+![Frame 2](https://user-images.githubusercontent.com/12611076/66304658-05e8f080-e8fe-11e9-8af1-e5876e29a740.png)
 
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
 ```
@@ -32,96 +38,48 @@ You can use source command as well so:
 source ~/spellcmds/.spells.sh 
 ```
 
-* To xkill process:
-```
-avadakedavra
-```
-* To clear screen:
-```
-obliviate
-```
-* To change directories:
-```
-apparate $1
-```
-* To exit terminal:
-```
-nox
-```
-* To copy files:
-```
-horcrux $1 $2
-```
-* To list files:
-```
-lumos
-```
-* To list files in long format including entries starting with .
-```
-lumosmaxima
-```
-* To view a single file:
-```
-revelio $1
-```
-* To freeze a process:
-```
-immobulus $1
-```
-* Create directory
-```
-accio $1
-```
-* Move file
-```
-wingardium_leviosa $1 $2
-```
-* To add universal file access:
-```
-alohomora $1
-```
-* To tail a file:
-```
-telehanda $1
-```
-* To go up one level of the directory tree:
-```
-ascendio
-```
-* Sleep terminal
-```
-stupefy $1
-```
-* To jump home:
-```
-portus
-```
-* To delete a file:
-```
-confringo $1
-```
-* To hide a file:
-```
-evanesco $1
-```
-* To use sudo in a command:
-```
-fideliuscharm $1
-```
-* To fix broken dependencies:
-```
-reparo
-```
-* Easter egg apt:
-```
-riddikulus
-```
-* To list hidden files:
-``` 
-aparecium
-```
+![Frame 3](https://user-images.githubusercontent.com/12611076/66304662-084b4a80-e8fe-11e9-9cd1-547b6b981a67.png)
 
-* To split large files into smaller files:
+`avadakedavra` - xkill process
+
+`obliviate` - clear screen
+
+`apparate $1` - change directories 
+
+`nox` - exit terminal
+
+`horcrux $1 $2` - copy files 
+
+`lumos` - list files
+
+`revelio $1` - To view a single file
+
+`immobulus $1` - freeze a process 
+
+`accio $1` - Create directory
+
+`wingardium_leviosa $1 $2` - Move file
+
+`alohomora $1` - add universal file access
+
+`telehanda $1` - tail a file
+
+`ascendio` - go up one level of the directory tree
+
+`stupefy $1` - Sleep terminal
+
+`portus` - jump home
+
+`confringo $1` - delete a file
+
+`evanesco $1` - hide a file
+
+`fideliuscharm $1` - use sudo in a command
+
+`reparo` - fix broken dependencies
+
+`riddikulus` - easter egg apt
+
 ```
 diffindo [options] filename prefix
 
@@ -132,13 +90,8 @@ Options:
 -d –numeric-suffixes use numeric suffixes instead of alphabetic
 -l –lines=NUMBER put NUMBER lines per output file
 ```
+- split large files into smaller files
 
-* To remove a directory:
-``` 
-bombarda dir
-```
+`bombarda dir` - remove a directory
 
-* To remove a directory with --force:
-``` 
-bombardamaxima dir
-```
+`bombardamaxima dir` - remove a directory with --force
