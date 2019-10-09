@@ -132,3 +132,8 @@ function bombardamaxima()
 {
 	rm -rf $@
 }
+
+function makefile()
+{
+	touch
+}
