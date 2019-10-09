@@ -80,6 +80,8 @@ source ~/spellcmds/.spells.sh
 
 `riddikulus` - easter egg apt
 
+`makefilia` - make a file
+
 ```
 diffindo [options] filename prefix
 
