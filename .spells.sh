@@ -132,3 +132,8 @@ function bombardamaxima()
 {
 	rm -rf $@
 }
+
+function makefilia()
+{
+	touch $1
+}
