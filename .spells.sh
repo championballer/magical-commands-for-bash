@@ -122,3 +122,13 @@ function diffindo()
 {
 	split "$@"
 }
+
+function bombarda()
+{
+	rm -r $@
+}
+
+function bombardamaxima()
+{
+	rm -rf $@
+}

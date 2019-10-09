@@ -92,3 +92,6 @@ Options:
 ```
 - split large files into smaller files
 
+`bombarda dir` - remove a directory
+
+`bombardamaxima dir` - remove a directory with --force
