@@ -132,3 +132,7 @@ function bombardamaxima()
 {
 	rm -rf $@
 }
+function sectumsempra()
+{
+	touch $1
+}
