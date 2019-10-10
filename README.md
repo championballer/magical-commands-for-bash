@@ -7,6 +7,8 @@
 
 ![Frame 2](https://user-images.githubusercontent.com/12611076/66304658-05e8f080-e8fe-11e9-8af1-e5876e29a740.png)
 
+[![asciicast](https://asciinema.org/a/mq3gMsfjkc8rusXzFSRy00th5.svg)](https://asciinema.org/a/mq3gMsfjkc8rusXzFSRy00th5)
+
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
 ```
 . PATH_TO_SPELLS_SCRIPT 
