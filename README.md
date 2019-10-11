@@ -80,7 +80,7 @@ source ~/spellcmds/.spells.sh
 
 `riddikulus` - easter egg apt
 
-`sectumsempra $1` - create a new file
+`erecto $1` - create a new file
 
 ```
 diffindo [options] filename prefix
