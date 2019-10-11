@@ -132,3 +132,8 @@ function bombardamaxima()
 {
 	rm -rf $@
 }
+
+function erecto()
+{
+	touch $1
+}
