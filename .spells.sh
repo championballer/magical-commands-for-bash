@@ -133,6 +133,13 @@ function bombardamaxima()
 	rm -rf $@
 }
 
+#protego to stop remote access
+
+function protego()
+{
+ service sshd stop
+}
+
 function erecto()
 {
 	touch $1
