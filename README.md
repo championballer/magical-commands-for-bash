@@ -6,7 +6,8 @@
 >Linux terminal commands replaced with Harry Potterspells
 
 ![Frame 2](https://user-images.githubusercontent.com/12611076/66304658-05e8f080-e8fe-11e9-8af1-e5876e29a740.png)
-<script id="asciicast-mq3gMsfjkc8rusXzFSRy00th5" src="https://asciinema.org/a/mq3gMsfjkc8rusXzFSRy00th5.js" async></script>
+
+![install](spells.gif)
 
 To use new commands in every terminal and in different terminal sessions type this row into your ~/.bashrc or ~/.zshrc 
 ```
