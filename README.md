@@ -95,3 +95,5 @@ Options:
 `bombarda dir` - remove a directory
 
 `bombardamaxima dir` - remove a directory with --force
+
+`imperio` - fully own a file
