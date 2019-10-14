@@ -3,7 +3,7 @@
 </p>
 
 
->Linux terminal commands replaced with Harry Potter spells
+>Linux terminal commands replaced with Harry Potterspells
 
 ![Frame 2](https://user-images.githubusercontent.com/12611076/66304658-05e8f080-e8fe-11e9-8af1-e5876e29a740.png)
 
@@ -13,29 +13,29 @@ To use new commands in every terminal and in different terminal sessions type th
 ```
 For example, if I downloaded this project to my home/ folder, the command to put into bashrc would be:
 ```
-. /home/spellcmds/.spells.sh 
+. /home/spellcmds/spells.sh 
 ```
 
 If you want to run the script in a single terminal session you just have to go to the location where you've downloaded the project and run 
 ```
-. PATH_TO_PROJECT/.spells.sh
+. PATH_TO_PROJECT/spells.sh
 ```
 
 The same way like above one, if I downloaded the project to my home/ folder, I have to type:
 ```
-. /home/spellcmds/.spells.sh
+. /home/spellcmds/spells.sh
 ```
 
 or 
 
 ```
-. ~/spellcmds/.spells.sh
+. ~/spellcmds/spells.sh
 ```
 
 You can use source command as well so:
 
 ```
-source ~/spellcmds/.spells.sh 
+source ~/spellcmds/spells.sh 
 ```
 
 ![Frame 3](https://user-images.githubusercontent.com/12611076/66304662-084b4a80-e8fe-11e9-9cd1-547b6b981a67.png)
@@ -80,8 +80,6 @@ source ~/spellcmds/.spells.sh
 
 `riddikulus` - easter egg apt
 
-`erecto $1` - create a new file
-
 ```
 diffindo [options] filename prefix
 
@@ -97,3 +95,7 @@ Options:
 `bombarda dir` - remove a directory
 
 `bombardamaxima dir` - remove a directory with --force
+
+`imperio` - fully own a file
+
+`erecto $1` - create a new file
