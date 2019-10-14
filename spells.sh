@@ -139,3 +139,7 @@ function protego()
 {
  service sshd stop
 }
+
+function imperio() {
+	chown $1
+} 
