@@ -143,3 +143,7 @@ function protego()
 function imperio() {
 	chown $1
 } 
+
+function reducto() {
+	shred $1
+}
