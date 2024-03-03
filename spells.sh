@@ -143,3 +143,10 @@ function protego()
 function imperio() {
 	chown $1
 } 
+
+# petrificustotalus: Displays a list of all running processes.
+
+function petrificustotalus()
+{
+    ps aux
+}
